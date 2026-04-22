@@ -1,6 +1,6 @@
 # BarberSoft 💈
 
-Protótipo funcional de sistema de gestão para barbearias — desenvolvido como projeto acadêmico da disciplina de Engenharia de Software.
+Protótipo funcional de sistema de gestão para barbearias — desenvolvido como projeto acadêmico 
 
 ## Stack
 
