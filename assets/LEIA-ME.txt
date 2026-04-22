@@ -1,0 +1,8 @@
+Este diretório deve conter:
+- icon.png         (1024x1024)
+- splash.png       (1242x2436)
+- adaptive-icon.png (1024x1024)
+- favicon.png      (196x196)
+
+Para o protótipo acadêmico, você pode usar imagens placeholder ou
+executar: npx expo install expo-asset e usar os assets padrão do Expo.
